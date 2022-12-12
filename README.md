@@ -5,13 +5,13 @@ This project utilizes a data set published by NASA through [kaggle](https://www.
 
 ## Use
 To run this project yourself, you must:
-- download both the data and code used in this project
-  - Data: You will find the data used in this analysis in the file labeled "cumulative.csv".
-  - Code: The analysis code is located in the file "Project.ipynb". 
+1. download both the data and code used in this project
+   - Data: You will find the data used in this analysis in the file labeled "cumulative.csv".
+   - Code: The analysis code is located in the file "Project.ipynb". 
 
-- ensure that you have the required packages installed
-- update the "path" variable in the first code cell to reflect the path of the data on your computer
-- run the notebook
+2. ensure that you have the required packages installed
+3. update the "path" variable in the first code cell to reflect the path of the data on your computer
+4. run the notebook
 
 
 Thank you for taking a look at our project!
